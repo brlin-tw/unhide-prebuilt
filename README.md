@@ -10,6 +10,6 @@ To be addressed.
 
 ## Licensing
 
-Unless otherwise noted, this product is licensed under the 3.0 version of [The GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), or any of its recent versions you would prefer.
+Unless [otherwise noted](.reuse/dep5), this product is licensed under [the 3.0 version of The GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), or any of its recent versions you would prefer.
 
 This work complies to the [REUSE Specification](https://reuse.software/spec/), refer [REUSE - Make licensing easy for everyone](https://reuse.software/) for info regarding the licensing of this product.

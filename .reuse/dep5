@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: The Common Project Template
-Upstream-Contact: 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
-Source: https://github.com/the-common/project-template
+Upstream-Name: The unhide-prebuilt project
+Upstream-Contact: The unhide-prebuilt project's issue tracker <unhttps://github.com/brlin-tw/unhide-prebuilt/issues>
+Source: https://github.com/brlin-tw/unhide-prebuilt
 
 Files:
  *README.md
@@ -11,3 +11,8 @@ Copyright: 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 # Bad license when operator '+' is used · Issue #275 · fsfe/reuse-tool
 # https://github.com/fsfe/reuse-tool/issues/275
 License: CC-BY-SA-4.0
+
+Files:
+ *
+Copyright: 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+License: GPL-3.0-or-later
